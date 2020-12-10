@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1607075688 source:/home/djessa/Projects/cpp/compte_bancaire/main.cpp
+	<iostream>
+	"CompteBancaire.h"
+
+1607075910 source:/home/djessa/Projects/cpp/compte_bancaire/src/CompteBancaire.cpp
+	"CompteBancaire.h"
+	<iostream>
+
+1607075986 /home/djessa/Projects/cpp/compte_bancaire/include/CompteBancaire.h
+
